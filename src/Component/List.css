@@ -1,0 +1,31 @@
+.Container-layout .Input-layout{
+    background-color: whitesmoke;
+
+}
+
+.Container-layout{
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    margin-top: 2%;
+}
+
+.list-data .List-item{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right:5px;
+}
+
+.Checkbox-layout{
+    display: inline;
+}
+
+.btn-layout{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.center{
+    text-align: center;
+    color: gray;
+}
